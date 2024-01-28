@@ -409,6 +409,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/ESP32_Project/DeskScreen/build/esp-idf/main/cmake_install.cmake")
 endif()
 

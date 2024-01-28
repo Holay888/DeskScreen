@@ -621,6 +621,13 @@ D:/ESP32_Project/DeskScreen/build/esp-idf/timer_queue/CMakeFiles/list_install_co
 D:/ESP32_Project/DeskScreen/build/esp-idf/timer_queue/CMakeFiles/install.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/timer_queue/CMakeFiles/install/local.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/timer_queue/CMakeFiles/install/strip.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/__idf_spiffs_user.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/edit_cache.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/rebuild_cache.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/list_install_components.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/install.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/install/local.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/CMakeFiles/install/strip.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/__idf_main.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/edit_cache.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/rebuild_cache.dir

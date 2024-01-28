@@ -60,4 +60,5 @@ $<TARGET_FILE:__idf_perfmon>
 $<TARGET_FILE:__idf_spiffs>
 $<TARGET_FILE:__idf_wifi_provisioning>
 $<TARGET_FILE:__idf_timer_queue>
+$<TARGET_FILE:__idf_spiffs_user>
 $<TARGET_FILE:__idf_main>
