@@ -41,7 +41,7 @@ void Spiffs_init(void)
         return;
     }
 
-// 检查文件系统状态
+// 检查文件系统的状态
 #ifdef CONFIG_EXAMPLE_SPIFFS_CHECK_ON_START
     ESP_LOGI(TAG, "Performing SPIFFS_check().");
     ret = esp_spiffs_check(conf.partition_label);
