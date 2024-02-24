@@ -61,4 +61,6 @@ D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs/libspiffs.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/timer_queue/libtimer_queue.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/libspiffs_user.a
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_print_wifi_data/libds_print_wifi_data.a
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_nvs/libds_nvs.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/libmain.a
