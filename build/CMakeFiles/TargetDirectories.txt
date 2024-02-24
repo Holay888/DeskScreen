@@ -649,3 +649,10 @@ D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/list_install_component
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/install.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/install/local.dir
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/CMakeFiles/install/strip.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/__idf_ds_gpio.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/edit_cache.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/rebuild_cache.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/list_install_components.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/install.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/install/local.dir
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/CMakeFiles/install/strip.dir

@@ -64,3 +64,4 @@ D:/ESP32_Project/DeskScreen/build/esp-idf/spiffs_user/libspiffs_user.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/ds_print_wifi_data/libds_print_wifi_data.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/ds_nvs/libds_nvs.a
 D:/ESP32_Project/DeskScreen/build/esp-idf/main/libmain.a
+D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/libds_gpio.a

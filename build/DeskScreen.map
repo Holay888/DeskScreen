@@ -8740,6 +8740,7 @@ LOAD esp-idf/spiffs_user/libspiffs_user.a
 LOAD esp-idf/ds_print_wifi_data/libds_print_wifi_data.a
 LOAD esp-idf/ds_nvs/libds_nvs.a
 LOAD esp-idf/main/libmain.a
+LOAD esp-idf/ds_gpio/libds_gpio.a
 LOAD esp-idf/app_trace/libapp_trace.a
 LOAD esp-idf/unity/libunity.a
 LOAD esp-idf/wear_levelling/libwear_levelling.a

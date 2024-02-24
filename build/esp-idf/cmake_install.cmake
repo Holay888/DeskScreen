@@ -427,3 +427,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("D:/ESP32_Project/DeskScreen/build/esp-idf/main/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ESP32_Project/DeskScreen/build/esp-idf/ds_gpio/cmake_install.cmake")
+endif()
+
